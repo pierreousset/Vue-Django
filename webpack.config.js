@@ -13,7 +13,7 @@ const dev_server_addr = 'localhost';
 const dev_server_port = 8001;
 
 module.exports = {
-    entry: ['./dashboardFront/main.js'],
+    entry: ['./frontend/main.js'],
     output: {
         path: path.resolve(__dirname, '.' + dist_dir + '/'),
         filename: '[name]-[hash].js',

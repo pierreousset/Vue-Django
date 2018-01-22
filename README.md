@@ -18,6 +18,17 @@ make migrate
 make run
 ```
 
+or 
+
+```bash
+Run Django 
+python3 manage.py runserver 8000
+```
+```bash
+Run Npm
+npm run dev
+```
+
 ### Deployment
 
 ```bash
