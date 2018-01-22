@@ -1,4 +1,5 @@
 # Vue-Django
+Django project with an integration of vuejs 
 
 ### Features
 
